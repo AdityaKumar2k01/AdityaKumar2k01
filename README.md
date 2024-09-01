@@ -23,12 +23,12 @@
 
 <div align="center">
   <p style="font-size: 1.5em; font-weight: bold;"><strong>Explore My Creative World</strong></p>
-  <a href="https://ayushianand70047.github.io/my-portfolio/">
+  <a href="https://adityakumar2k01.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-%23FF5733.svg?logo=artstation&logoColor=white" alt="Portfolio Badge" style="border-radius: 8px;"/>
   </a>
   <p style="font-size: 1.2em; font-weight: bold;">
     <strong>Visit my portfolio to see my projects, skills, and more:</strong> <br>
-    <a href="https://ayushianand70047.github.io/my-portfolio/" style="color: #007bff; text-decoration: none; font-weight: bold;">ayushianand70047.github.io/my-portfolio</a>
+    <a href="https://adityakumar2k01.github.io/" style="color: #007bff; text-decoration: none; font-weight: bold;">AdityaKumar2k01.github.io/My-portfolio</a>
   </p>
 </div>
 
