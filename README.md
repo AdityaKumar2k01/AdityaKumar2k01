@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AyushiAnand70047&theme=dark&hide_border=true)
+![](https://rb.gy/sc4hic)
 ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar2k01&theme=vue-dark&show_icons=true&hide_border=false&count_private=true))
 
 
