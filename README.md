@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Aditya Kumar, a BTech Computer Science student at Lovely Professional University, Jalandhar, Punjab. I'm always eager to learn new technologies and push the boundaries of my knowledge.<br><br>🔭 I’m currently working on Innovative full-stack projects using the MERN stack.<br> I’m looking for help with Advanced algorithms and large-scale application architectures.<br> I’m currently learning In-depth concepts of DBMS, OS, Computer Networking, and enhancing my skills in SQL.<br>💬 Ask me about Full-stack development, Python Devlopment and my experience with various programming languages like C, C++ and Python.
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AyushiAnand70047&label=Profile%20views&color=0e75b6&style=flat" alt="AyushiAnand70047" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AyushiAnand70047&label=Profile%20views&color=0e75b6&style=flat" alt="AyushiAnand70047" /> </p> 
 
 ## 🌐 Socials:
 
